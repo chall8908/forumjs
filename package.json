@@ -1,0 +1,17 @@
+{
+  "author"      : "Chris Hall <chall8908@gmail.com>",
+  "name"        : "forumjs",
+  "description" : "Node.js forum software",
+  "version"     : "0.0.1",
+  "license"     : "CC BY-SA 3.0",
+  "private"     : true,
+  "dependencies": {
+    "express"     : "3.x",
+    "pg"          : "1.1.x",
+    "lodash"      : "1.2.x",
+  },
+  "devDependencies" : {
+    "nodeunit-dsl": "0.0.x",
+    "grunt"       : "0.4.x"
+  }
+}
